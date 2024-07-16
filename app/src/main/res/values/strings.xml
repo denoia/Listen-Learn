@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListenLearn</string>
+    <string name="signin">Sign in</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="please_login">Please Log in.</string>
+    <string name="email">Valid Email</string>
+    <string name="password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account_sign_up">Dont Have Account? Sign up</string>
+</resources>
